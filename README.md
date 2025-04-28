@@ -1,1 +1,50 @@
-# Privacy_Policy
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - معالم المدينة</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>Privacy Policy</h1>
+  <p>This privacy policy applies to the <strong>معالم المدينة</strong> app (hereby referred to as "Application") for mobile devices that was created by <strong>Fatimah Sadiq</strong> (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".</p>
+
+  <h2>Information Collection and Use</h2>
+  <p>The Application collects information when you download and use it. This information may include:</p>
+  <ul>
+    <li>Your device's Internet Protocol address (e.g. IP address)</li>
+    <li>The pages of the Application that you visit, the time and date of your visit, and the time spent on those pages</li>
+    <li>The operating system you use on your mobile device</li>
+  </ul>
+  <p>The Application does not gather precise information about the location of your mobile device.</p>
+  <p>The Service Provider may use the information you provide to contact you from time to time with important information, required notices, and marketing promotions.</p>
+
+  <h2>Third Party Access</h2>
+  <p>Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service.</p>
+  <p>The Application utilizes third-party services that may collect information used to identify you:</p>
+  <ul>
+    <li>Google Play Services</li>
+    <li>Google Maps APIs</li>
+  </ul>
+  <p>The Service Provider may disclose information as required by law, or in good faith to protect their rights and the safety of others.</p>
+
+  <h2>Opt-Out Rights</h2>
+  <p>You can stop all collection of information by uninstalling the Application.</p>
+
+  <h2>Data Retention Policy</h2>
+  <p>The Service Provider will retain user-provided data for as long as you use the Application and for a reasonable time thereafter. To request data deletion, contact: <a href="mailto:umdrm.developer@gmail.com">umdrm.developer@gmail.com</a></p>
+
+
+  <h2>Security</h2>
+  <p>The Service Provider is committed to safeguarding your data with physical, electronic, and procedural safeguards.</p>
+
+  <h2>Changes</h2>
+  <p>This Privacy Policy may be updated from time to time. You are advised to review this page periodically for any changes.</p>
+  <p><strong>Effective date:</strong> 2025-04-23</p>
+
+  <h2>Your Consent</h2>
+  <p>By using the Application, you consent to the processing of your information as described in this policy.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions, contact us at: <a href="mailto:umdrm.developer@gmail.com">umdrm.developer@gmail.com</a></p>
+</body>
+</html>
